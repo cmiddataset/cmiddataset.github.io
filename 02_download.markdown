@@ -5,7 +5,7 @@ permalink: /download/
 ---
 
 
-To get access the CMID dataset, please this form.
+To get access the CMID dataset, please this <a href="https://docs.google.com/forms/d/e/1FAIpQLSfYM6kPAtyeJZ_dEoHOTL2Stpwib4nxuvCFSqZ_RuO9-COrdQ/viewform">form</a>.
 
 Once completed, you will shortly receive a confirmation mail and we will 
 process your request in the shortest times.
