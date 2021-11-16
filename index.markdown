@@ -15,28 +15,31 @@ To download the dataset please follow the instruction [here](/download/).
 For more information about the dataset follow this  [link](/overview/).
 
 
-If you use the CMID dataset please cite :
+If you use the CMID dataset please consider citing the following papers :
+
 
 ```
-@inproceedings{sift-ldm,
-  title={Copy and Move Forgery Detection Using SIFT and Local Color Dissimilarity Maps},
-  author={Mahfoudi, Ga{\"e}l and Morain-Nicollier, Fr{\'e}d{\'e}ric and Retraint, Florent and Pic, Marc},
-  booktitle={2019 IEEE Global Conference on Signal and Information Processing (GlobalSIP)},
-  year={2019}
+@inproceedings{cmid-dataset,  
+  author={Mahfoudi, Gaël and Morain-Nicolier, Frédéric and Retraint, Florent and Pic, Marc},  
+  booktitle={2021 IEEE International Conference on Image Processing (ICIP)},   
+  title={CMID: A New Dataset for Copy-Move Forgeries on ID Documents},   
+  year={2021},  
+  pages={3028-3032},  
+  doi={10.1109/ICIP42928.2021.9506723}
 }
 ```
 
 and : 
 
 ```
-@inproceedings{sift-ldm,
-  title={Copy and Move Forgery Detection Using SIFT and Local Color Dissimilarity Maps},
-  author={Mahfoudi, Ga{\"e}l and Morain-Nicollier, Fr{\'e}d{\'e}ric and Retraint, Florent and Pic, Marc},
-  booktitle={2019 IEEE Global Conference on Signal and Information Processing (GlobalSIP)},
-  year={2019}
+@inproceedings{sift-ldm,  
+  author={Mahfoudi, Gaël and Morain-Nicollier, Frédéric and Retraint, Florent and PIC, Marc},  
+  booktitle={2019 IEEE Global Conference on Signal and Information Processing (GlobalSIP)},   
+  title={Copy and Move Forgery Detection Using SIFT and Local Color Dissimilarity Maps},   
+  year={2019},  
+  doi={10.1109/GlobalSIP45357.2019.8969355}
 }
 ```
-
 
 
 
